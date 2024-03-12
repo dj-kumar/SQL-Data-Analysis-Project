@@ -13,23 +13,15 @@
 
   <h2>Objectives</h2>
 
-  <ol>
-    <li>
       <h3>Total Debt Analysis:</h3>
-      <p>Determine the aggregate debt owed by countries featured in the dataset.</p>
-    </li>
-
-    <li>
+      <p> 1. Determine the aggregate debt owed by countries featured in the dataset.</p>
+    
       <h3>Maximum Debt Holder:</h3>
-      <p>Identify the country with the highest debt and provide the corresponding amount.</p>
-    </li>
-
-    <li>
+      <p> 2. Identify the country with the highest debt and provide the corresponding amount.</p>
+ 
       <h3>Average Debt by Indicators:</h3>
-      <p>Calculate the average debt amount across different indicators for countries in the dataset.</p>
-    </li>
-  </ol>
-  
+      <p> 3. Calculate the average debt amount across different indicators for countries in the dataset.</p>
+
 </body>
 
 </html>
