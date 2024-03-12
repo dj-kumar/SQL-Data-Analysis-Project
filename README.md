@@ -5,8 +5,6 @@
   <title>Project Overview</title>
 </head>
 
-<body>
-
   <h1>Project Overview</h1>
 
   <p>In this project, I, as an Intermediate Data Analyst, aim to analyze international debt data obtained from The World Bank. The dataset comprises information on the debt amount (in USD) owed by developing countries, categorized across various metrics.</p>
@@ -21,7 +19,3 @@
  
       <h3>Average Debt by Indicators:</h3>
       <p> 3. Calculate the average debt amount across different indicators for countries in the dataset.</p>
-
-</body>
-
-</html>
